@@ -1,1 +1,4 @@
 Hi This is a text file to check git commands.
+
+
+I add second line to check the git remote repo updated from local.
