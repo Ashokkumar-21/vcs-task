@@ -3,4 +3,12 @@ Hi This is a text file to check git commands.
 
 I add second line to check the git remote repo updated from local.
 
+<<<<<<< HEAD
 This is the line to check rebase command
+=======
+
+
+
+
+Am going to add a line to rebase comman
+>>>>>>> 65923b2 (file1.txt file edited in branch1)
